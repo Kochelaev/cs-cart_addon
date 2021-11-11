@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::orders_changes"
+msgid "Orders changes"
+msgstr "Orders changes"
+
+msgctxt "Addons::description::orders_changes"
+msgid "Show orders status changes"
+msgstr "Show orders status changes"
+
+msgctxt "SettingsSections::orders_changes::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsOptions::orders_changes::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsOptions::orders_changes::order_status"
+msgid "Order status"
+msgstr "Order status"
+
+msgctxt "Languages::privilege_groups.orders_changes"
+msgid "Orders changes"
+msgstr "Orders changes"
+
+msgctxt "Languages::orders_changes"
+msgid "Orders changes"
+msgstr "Orders changes"
+
+msgctxt "Languages::orders_changes_menu_description"
+msgid "Display order changes status"
+msgstr "Display order changes status"
+
+msgctxt "Languages::old_status"
+msgid "Old status"
+msgstr "Old status"
+
+msgctxt "Languages::changed_by"
+msgid "Changed by"
+msgstr "Changed by"
+
+msgctxt "Languages::date_of_change"
+msgid "Date of change"
+msgstr "Date of change"
+
+msgctxt "Languages::current_status"
+msgid "New status"
+msgstr "New status"
+
+msgctxt "Languages::new_order"
+msgid "New order"
+msgstr "New order"

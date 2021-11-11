@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+
+<addon scheme="3.0" edition_type="ROOT,ULT:VENDOR">
+
+    <id>orders_changes</id>
+    <supplier>Artem</supplier>
+    <version>1.0</version>
+    <default_language>en</default_language>
+    <priority>2400</priority>
+    <status>active</status>    
+    <queries>       
+        <item for="install">
+        CREATE TABLE `?:orders_changes` (
+            `changes_id` mediumint(8) NOT NULL auto_increment,
+            `order_id` mediumint(8) NOT NULL,
+            `status_from` char,
+            `status_to` char,
+            `user_id` mediumint(8),
+            `timestamp` int(11) unsigned,           
+            PRIMARY KEY  (`changes_id`)
+        ) ENGINE=MyISAM DEFAULT CHARSET=UTF8
+        </item>      
+       
+        <item for="uninstall">DROP TABLE IF EXISTS `?:orders_changes`</item>
+       
+    </queries>  
+   
+</addon>
