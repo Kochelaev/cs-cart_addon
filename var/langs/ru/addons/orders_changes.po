@@ -44,22 +44,22 @@ msgctxt "Languages::orders_changes_menu_description"
 msgid "Display order changes status"
 msgstr "Просмотр истории изменений статуса заказов"
 
-msgctxt "Languages::old_status"
+msgctxt "Languages::orders_changes_old_status"
 msgid "Old status"
 msgstr "Старый статус"
 
-msgctxt "Languages::current_status"
+msgctxt "Languages::orders_changes_new_status"
 msgid "New_status"
 msgstr "Новый статус"
 
-msgctxt "Languages::changed_by"
+msgctxt "Languages::orders_changes_changed_by"
 msgid "Changed by"
 msgstr "Кем изменен"
 
-msgctxt "Languages::date_of_change"
+msgctxt "Languages::orders_changes_date_of_change"
 msgid "Date of change"
 msgstr "Дата изменения"
 
-msgctxt "Languages::new_order"
+msgctxt "Languages::orders_changes_new_order"
 msgid "New order"
 msgstr "Новый заказ"

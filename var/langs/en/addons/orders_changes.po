@@ -37,22 +37,22 @@ msgctxt "Languages::orders_changes_menu_description"
 msgid "Display order changes status"
 msgstr "Display order changes status"
 
-msgctxt "Languages::old_status"
+msgctxt "Languages::orders_changes_old_status"
 msgid "Old status"
 msgstr "Old status"
 
-msgctxt "Languages::changed_by"
+msgctxt "Languages::orders_changes_new_status"
+msgid "New_status"
+msgstr "New_status"
+
+msgctxt "Languages::orders_changes_changed_by"
 msgid "Changed by"
 msgstr "Changed by"
 
-msgctxt "Languages::date_of_change"
+msgctxt "Languages::orders_changes_date_of_change"
 msgid "Date of change"
 msgstr "Date of change"
 
-msgctxt "Languages::current_status"
-msgid "New status"
-msgstr "New status"
-
-msgctxt "Languages::new_order"
+msgctxt "Languages::orders_changes_new_order"
 msgid "New order"
 msgstr "New order"
